@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Total due cost</string>
+    <string-array name = "type">
+        <item>Economy</item>
+        <item>Compact</item>
+        <item>Intermediate</item>
+        <item>Standard</item>
+        <item>Fullsize</item>
+    </string-array>
+
+
+</resources>
